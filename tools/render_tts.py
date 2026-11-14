@@ -12,6 +12,7 @@ Usage:
   python3 tools/render_tts.py tts/foo.txt --slug foo --voice 614f8afd83f841048c040b2c6234d2c1
 """
 import argparse
+import os
 import re
 import subprocess
 import sys
@@ -129,7 +130,7 @@ before = mean_db(merged)
 gain = max(-12.0, min(12.0, -21.0 - before)) if before is not None else 0.0
 normed = f"{D}/{slug}_norm.wav"
 run(["ffmpeg", "-v", "error", "-y", "-i", merged,
-     "-af", f"volume={gain:+.2f}dB,alimiter=limit={PEAK_LIMIT}",
+     "-af", f"volume={gain:+.2f}dB,alimiter=limit=0.84",
      "-ar", "44100", "-ac", "1", normed])
 after = mean_db(normed)
 
@@ -162,7 +163,8 @@ def main():
     a = ap.parse_args()
 
     # ship text to vps
-    subprocess.run(SSH + ["mkdir", "-p", "/tmp/vivek-tts"], check=True)
+    rdir = os.path.dirname(a.slug)
+    subprocess.run(SSH + ["mkdir", "-p", "/tmp/vivek-tts" + ("/" + rdir if rdir else "")], check=True)
     subprocess.run(["scp", "-o", "BatchMode=yes", "-o", "ConnectTimeout=10",
                     a.text, f"vps:/tmp/vivek-tts/{a.slug}.txt"], check=True)
     print(f"shipped {a.text} -> vps:/tmp/vivek-tts/{a.slug}.txt")

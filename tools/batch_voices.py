@@ -37,7 +37,8 @@ SSH = ["ssh", "-o", "BatchMode=yes", "-o", "ConnectTimeout=10", "vps"]
 GROUP_MAX = 1600
 BEATS = {"indeed", "yes", "no", "now", "therefore", "again", "why", "what",
          "listen", "remember", "mark", "understand"}
-TAG_RE = re.compile(r"\[(?:break|long-break)\]")   # ONLY our tags; body brackets (refs) stay
+TAG_RE = re.compile(r"\[(?:break|long-break)\]")
+INDIC_RE = re.compile("[\u0900-\u097F\u0980-\u09FF\u0A00-\u0BFF\u0C00-\u0D7F]")  # Deva/Bengali/Tamil/Telugu/Kannada/Malayalam — fish cannot read these   # ONLY our tags; body brackets (refs) stay
 TERMINAL = tuple(".!?:;…—”\"'")
 
 # ---------------------------------------------------------------- direction
@@ -81,16 +82,23 @@ def parse_blocks(path):
         ital = bool(t.startswith("*") and t.endswith("*") and len(t) > 2)
         canon = canonical(p)
         if canon:
-            blocks.append({"head": head, "host": head or ital, "text": canon[0]})
+            blocks.append({"head": head, "host": head or ital, "text": canon[0],
+                           "indic": bool(INDIC_RE.search(canon[0]))})
     return blocks
 
 
-def build_groups(path, exclude=None):
-    """canonical blocks -> directed groups [{voice, text, bid...}] + audit."""
+def build_groups(path, exclude=None, stats=None):
+    """canonical blocks -> directed groups [{voice, text, bid...}] + audit.
+    Indic-script blocks are SKIPPED (fish cannot read them) and counted."""
     blocks = parse_blocks(path)
     if exclude:
         blocks = [b for i, b in enumerate(blocks)
                   if not any(s <= i < e for s, e in exclude)]
+    indic = [b for b in blocks if b.get("indic")]
+    if stats is not None:
+        stats["indic_blocks"] = len(indic)
+        stats["indic_words"] = sum(len(b["text"].split()) for b in indic)
+    blocks = [b for b in blocks if not b.get("indic")]
 
     directed, prev_term = [], True
     for i, b in enumerate(blocks):
@@ -264,7 +272,13 @@ def main():
     if re.fullmatch(r"volume_\d+", slug) and os.path.exists(rng_path):
         exclude = [(r["start"], r["end"]) for r in json.load(open(rng_path))
                    if r["vol"] == slug]
-    groups = build_groups(src, exclude)
+    gstats = {}
+    groups = build_groups(src, exclude, gstats)
+    if gstats.get("indic_blocks"):
+        with open(os.path.join(ROOT, "tts", "skipped_indic.jsonl"), "a") as _f:
+            _f.write(json.dumps({"slug": slug, **gstats}) + "\n")
+        print(f"  language guard: skipped {gstats['indic_blocks']} Indic blocks "
+              f"({gstats['indic_words']} words) — fish cannot read them")
     n_gr = sum(1 for g in groups if g["voice"] == "granny")
     chars = sum(g["chars"] for g in groups)
     print(f"{slug}: {len(groups)} groups ({n_gr} granny host / {len(groups)-n_gr} master), "

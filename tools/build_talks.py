@@ -46,7 +46,11 @@ def main():
         end = next((i for i in range(start + 1, len(blocks)) if blocks[i]["head"]),
                    len(blocks))
         lines = []
+        skipped_indic = 0
         for b in blocks[start:end]:
+            if b.get("indic"):
+                skipped_indic += 1
+                continue
             if b["head"]:
                 lines.append("## " + b["text"])
             elif b.get("host"):
@@ -55,10 +59,13 @@ def main():
                 lines.append(b["text"])
         with open(os.path.join(out, slug + ".md"), "w", encoding="utf-8") as f:
             f.write("\n\n".join(lines) + "\n")
-        words = sum(len(b["text"].split()) for b in blocks[start + 1:end])
+        words = sum(len(b["text"].split()) for b in blocks[start + 1:end]
+                    if not b.get("indic"))
         ranges.append({"vol": vol, "slug": slug, "heading": heading,
                        "start": start, "end": end, "words": words})
         print(f"{vol}  {slug:<24} blocks {start}-{end - 1}  {words:>6,}w  ~{words/150:.0f} min")
+        if skipped_indic:
+            print(f"           ↳ language guard: dropped {skipped_indic} Indic block(s)")
     if missing:
         print(f"MISSING/AMBIGUOUS: {missing}", file=sys.stderr)
         sys.exit(1)

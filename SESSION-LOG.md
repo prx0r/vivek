@@ -41,3 +41,10 @@
 - Shorts: re-span the C-tier/approx windows, then render on approval
   (fresh fish for exactness ≈1 h for all 102; reuse slices for exact 28).
 - Ramakrishna: finish `decisions.tsv` curation → build Question-Led book.
+
+## Language guard (added 2026-11-14, after voice test)
+
+Fish cannot read Devanagari/Bengali → **Indic blocks are never voiced**
+(4,452 blocks / ~220k words skipped corpus-wide; see `LANGUAGE-POLICY.md`).
+`thoughts-on-the-gita` re-rendered (it contained Deva); volume queue restarted
+with the guard. Sample evidence: `r2:longform-audio/vivek/samples/`.
