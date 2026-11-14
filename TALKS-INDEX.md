@@ -18,7 +18,7 @@ House norm −21 dB mean / −1.5 dB peak. R2: `r2:longform-audio/vivek/talks/`
 | 10 | powers-of-the-mind | 30:47 | 28 MB | `talks/powers-of-the-mind.mp3` |
 | 11 | ramayana | 32:32 | 29 MB | `talks/ramayana.mp3` |
 | 12 | real-nature-of-man | 41:33 | 38 MB | `talks/real-nature-of-man.mp3` |
-| 13 | thoughts-on-the-gita | 19:06 | 17 MB | `talks/thoughts-on-the-gita.mp3` |
+| 13 | thoughts-on-the-gita | 12:05 | 11 MB | `talks/thoughts-on-the-gita.mp3` |
 
 **Total: 13 talks, 6 h 33 min**
 
