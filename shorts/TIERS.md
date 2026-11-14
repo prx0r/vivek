@@ -1,14 +1,8 @@
-# Shorts — manual tier review (2026-11-14)
+# Shorts — tier review (manual, 2026-11-14)
 
-All 102 read in full. Tiers = quality **as standalone pieces**:
-- **S**: gold — vivid, complete, quotable; publish as-is (26)
-- **A**: strong standalone, minor nits (49)
-- **B**: real material but context-dependent or structurally awkward (17)
-- **C**: cut or re-span — weak referent, mixed voice, TTS hazard, or duplicate (10)
+Quality **as standalone pieces**; all durations 60–120 s; duplicate pass done.
 
-Duplicate pass: clusters noted inline; explicit duplicate = S055 → keeper **S044**.
-
-## S — Scroll-stopper gold (publish as-is) (26)
+## S — Scroll-stopper gold (26)
 
 - **S001** [volume_2·immortality·86s] rhythmic death-question opener, textbook hook
 - **S004** [volume_2·immortality·69s] "You are all God" fire line
@@ -23,8 +17,8 @@ Duplicate pass: clusters noted inline; explicit duplicate = S055 → keeper **S0
 - **S043** [volume_1·STEPS TO REALISATION·77s] thief/gold faith parable — complete + punchy
 - **S044** [volume_1·PAPER ON HINDUISM·91s] honest close: "I do not know" — his best moment
 - **S050** [volume_2·UNITY IN DIVERSITY·97s] paradox "give up good and evil" + killer close
-- **S056** [volume_3·VEDANTA IN ITS APPLICATION T·88s] "Hands off!" — ferocious liberty rhetoric
-- **S057** [volume_3·QUALIFICATIONS OF THE ASPIRA·77s] "the sun requires no torch" — top quotable
+- **S056** [volume_3·VEDANTA IN ITS APPLICATION·88s] "Hands off!" — ferocious liberty rhetoric
+- **S057** [volume_3·QUALIFICATIONS OF THE ASPI·77s] "the sun requires no torch" — top quotable
 - **S061** [volume_3·MY PLAN OF CAMPAIGN·104s] frothy-talk challenge + Bhartrihari verse
 - **S062** [volume_4·WHAT WE BELIEVE IN·106s] "We reject none…" manifesto + "every soul is a sun"
 - **S077** [volume_6·DIVINE LOVE·100s] dying-yogi + Christ-refused-angels rhetoric
@@ -32,12 +26,12 @@ Duplicate pass: clusters noted inline; explicit duplicate = S055 → keeper **S0
 - **S084** [volume_6·WORSHIPPER AND WORSHIPPED·90s] dust/seed/hen-egg chain → "through His mercy alone"
 - **S087** [volume_7·MERCINARIES IN RELIGION·92s] five-blind-men told perfectly, satisfying resolution
 - **S089** [volume_8·THE ESSENCE OF RELIGION·67s] baby-lion roar that shook the hills
-- **S090** [volume_8·IS VEDANTA THE FUTURE RELIGI·82s] Unitarian-vs-books argument — crisp, original, complete
+- **S090** [volume_8·IS VEDANTA THE FUTURE RELI·82s] Unitarian-vs-books argument — crisp, original, complete
 - **S093** [volume_8·THE RELIGION OF LOVE·76s] "Four eyes met…" + oyster-sand-pearl
 - **S097** [volume_9·BHAKTI-YOGA·81s] garden-prayer girl punchline lands perfectly
-- **S099** [volume_9·THE FIRST STEP TOWARDS JNANA·64s] lady-and-diamonds irony close — perfect little story
+- **S099** [volume_9·THE FIRST STEP TOWARDS JNA·64s] lady-and-diamonds irony close — perfect little story
 
-## A — Strong standalone (49)
+## A — Strong standalone (50)
 
 - **S003** [volume_2·immortality·65s] clean compound-logic neti-neti
 - **S006** [volume_2·necessity-of-religion·90s] "Not I, but thou" motto explained
@@ -57,9 +51,9 @@ Duplicate pass: clusters noted inline; explicit duplicate = S055 → keeper **S0
 - **S027** [volume_4·claims-of-religion·108s] anti-blind-faith + Buddha quote-list
 - **S028** [volume_4·great-teachers·96s] wave-cycle frame for the Messengers
 - **S036** [volume_4·is-the-soul-immortal·106s] Yudhishthira frame + bowling-alley metaphor
-- **S038** [volume_1·EACH IS GREAT IN HIS OWN PLA·60s] dumb-man joke with twist + clarification
+- **S038** [volume_1·EACH IS GREAT IN HIS OWN P·60s] dumb-man joke with twist + clarification
 - **S040** [volume_1·VEDIC RELIGIOUS IDEALS·74s] Nasadiya hymn verbatim — the oldest question
-- **S041** [volume_1·PRACTICAL RELIGION: BREATHIN·72s] nose/curses senses examples, tight
+- **S041** [volume_1·PRACTICAL RELIGION: BREATH·72s] nose/curses senses examples, tight
 - **S042** [volume_1·STEPS TO REALISATION·87s] most-wonderful-is-Hope + funny coin examples
 - **S045** [volume_1·KRISHNA·73s] Jesus/Krishna parallels + Gita verse close
 - **S048** [volume_2·THE FREEDOM OF THE SOUL·119s] free-will fork ends on a chosen side
@@ -67,29 +61,30 @@ Duplicate pass: clusters noted inline; explicit duplicate = S055 → keeper **S0
 - **S051** [volume_2·SOUL, NATURE, AND GOD·90s] soul indestructible via disintegration proof
 - **S052** [volume_2·PRACTICAL VEDANTA·119s] sleep-in-snow metaphor for spiritual complacency
 - **S053** [volume_2·GOD IN EVERYTHING·84s] practical desire-answer, "world becomes a heaven"
-- **S058** [volume_3·UNITY, THE GOAL OF RELIGION·73s] "Yea and nay" + chemistry-to-religion analogy
-- **S060** [volume_3·THE GOD OF LOVE IS HIS OWN P·65s] Para-Bhakti ideal defined in one breath
+- **S058** [volume_3·UNITY, THE GOAL OF RELIGIO·73s] "Yea and nay" + chemistry-to-religion analogy
+- **S060** [volume_3·THE GOD OF LOVE IS HIS OWN·65s] Para-Bhakti ideal defined in one breath
 - **S063** [volume_4·THE STORY OF PRAHLADA·108s] Prahlada miracle imagery, exciting
 - **S064** [volume_4·THE FIRST STEPS·72s] "What do we want?" + books-make-parrots
 - **S066** [volume_4·THE MAHABHARATA·100s] Svayamvara game-of-thrones setup, ends on challenge
 - **S067** [volume_4·THE SONG OF THE SANNYÂSIN·84s] Song of the Sannyasin verse, refrains close it
 - **S068** [volume_4·THE CHIEF SYMBOLS·77s] scoundrel-saint / baby-temple anthropology
-- **S069** [volume_4·REPLY TO THE ADDRESS OF THE ·71s] survival counter-riddle, edgy rhetoric
-- **S072** [volume_5·ON INDIAN WOMEN — THEIR PAST·78s] brahmacharya-equality line + Yajnavalkya recall
-- **S073** [volume_5·THE ABROAD AND THE PROBLEMS ·84s] Englishman-energy + charming dated asides
+- **S069** [volume_4·REPLY TO THE ADDRESS OF TH·71s] survival counter-riddle, edgy rhetoric
+- **S070** [volume_5·I·74s] re-spanned: Maya Q&A ends on the sun-vision answer; no trailing question
+- **S072** [volume_5·ON INDIAN WOMEN — THEIR PA·78s] brahmacharya-equality line + Yajnavalkya recall
+- **S073** [volume_5·THE ABROAD AND THE PROBLEM·84s] Englishman-energy + charming dated asides
 - **S074** [volume_5·INDIA'S MISSION·76s] Q&A; closes "real strength, that is meekness"
 - **S079** [volume_6·WORSHIPPER AND WORSHIPPED·80s] "taking a good nap?" creation scepticism + verses
 - **S081** [volume_6·ON PROOF OF RELIGION·90s] opening challenge lands on the unit-vs-flux question
-- **S082** [volume_6·THOUGHTS ON THE VEDAS AND TH·110s] Nachiketa tale ends "How can I describe it to you?"
+- **S082** [volume_6·THOUGHTS ON THE VEDAS AND ·110s] Nachiketa tale ends "How can I describe it to you?"
 - **S083** [volume_6·MOTHER-WORSHIP·79s] dual-myth genealogy, biting close
-- **S085** [volume_7·RECORDED BY MISS S. E. WALDO·77s] water-the-roots + tubs-and-plants quilt
-- **S086** [volume_7·RECORDED BY MISS S. E. WALDO·99s] salt-in-ocean + municipal-authority zinger
-- **S094** [volume_8·BUDDHA'S MESSAGE TO THE WORL·82s] Buddha "destroy all delusions" + Hindu-God zinger
+- **S085** [volume_7·RECORDED BY MISS S. E. WAL·77s] water-the-roots + tubs-and-plants quilt
+- **S086** [volume_7·RECORDED BY MISS S. E. WAL·99s] salt-in-ocean + municipal-authority zinger
+- **S094** [volume_8·BUDDHA'S MESSAGE TO THE WO·82s] Buddha "destroy all delusions" + Hindu-God zinger
 - **S095** [volume_8·WOMEN OF INDIA·87s] lotus-drop + "Prattle, babes, prattle" edge
 - **S100** [volume_9·BHAKTI-YOGA·90s] Hanuman/Rama-Krishna story + nishtha teaching
 - **S101** [volume_9·ALL RELIGIONS ARE TRUE·85s] revelations-vs-science boundary, Moses part complete
 
-## B — Situational / reserve (17)
+## B — Situational / reserve (21)
 
 - **S002** [volume_2·immortality·67s] source OCR garbles ("taking; different", "which wet")
 - **S005** [volume_2·necessity-of-religion·76s] essay-like opener, no single wow moment
@@ -105,29 +100,29 @@ Duplicate pass: clusters noted inline; explicit duplicate = S055 → keeper **S0
 - **S065** [volume_4·REINCARNATION·90s] quote-dense (Fichte), academic
 - **S071** [volume_5·MIRACLES·96s] great atheist-saved line but reporter narration frames it
 - **S075** [volume_5·ON THE VEDANTA PHILOSOPHY·64s] loose: personal-contact + bliss moments
+- **S076** [volume_5·II·83s] re-spanned: three Q&As end on "go beyond the Vedas" — no trailing question
+- **S080** [volume_6·NOTES TAKEN DOWN IN MADRAS·62s] re-spanned: Krishna/duty + devil-guises, ends clean (drop diet tail)
 - **S091** [volume_8·SAYINGS AND UTTERANCES·86s] two numbered sayings; list numbers read aloud
 - **S092** [volume_8·SAYINGS AND UTTERANCES·76s] five numbered sayings — gold lines, awkward as one short
 - **S096** [volume_8·JNANA YOGA - I·66s] clean but textbook-summary tone
+- **S098** [volume_9·CHAPTER VII·84s] re-spanned: now completes the Kempis quote (ends "Speak Thou alone, O Lord")
+- **S102** [volume_9·CONVERSATIONS AND INTERVIE·69s] re-spanned: caste/cook answer without the dangling opener
 
-## C — Cut or re-span (see note) (10)
+## C — Cut (final) (5)
 
-- **S034** [volume_4·thoughts-on-the-gita·80s] Devanagari inline — mangles TTS; needs prose-only re-span
-- **S039** [volume_1·EACH IS GREAT IN HIS OWN PLA·120s] story cut mid-setup (princess scene), no payoff — re-span impossible at 120s cap
-- **S055** [volume_2·THE GOAL·77s] DUPLICATE of S044 (same "question unanswerable" teaching, weaker telling) · dup→S044
+- **S034** [volume_4·thoughts-on-the-gita·80s] CUT (final): Devanagari inline in every candidate span — cannot be fixed by re-spanning; would mangle TTS
+- **S039** [volume_1·EACH IS GREAT IN HIS OWN P·120s] story cut mid-setup (princess scene), no payoff — re-span impossible at 120s cap
+- **S055** [volume_2·THE GOAL·77s] DUPLICATE of S044 (same "question unanswerable" teaching, weaker telling)
 - **S059** [volume_3·HINDUS AT THE FAIR·70s] second half is biographer narration, not his words
-- **S070** [volume_5·I·81s] ends on unanswered trailing Q — re-span p16-19
-- **S076** [volume_5·II·88s] ends on unanswered trailing Q — re-span p00-04
-- **S080** [volume_6·NOTES TAKEN DOWN IN MADRAS, ·88s] topic-jumps to diet/sepoys in tail — re-span p72-73 only
 - **S088** [volume_7·CONVERSATIONS AND DIALOGUE·102s] loose interview: odd stats, referent-heavy, disjoint
-- **S098** [volume_9·CHAPTER VII·77s] ends mid-sentence ("…Western monk:") — re-span p12-13 first half only
-- **S102** [volume_9·CONVERSATIONS AND INTERVIEWS·72s] dangling opener "It is impossible" (referent missing)
 
 ---
+## duplicate / cluster notes
 
-## Duplicate / cluster notes
+- **S055** cut: duplicate of **S044** (keeper).
+- universal-forms: S100 kept (story); S019/S054 reserve.
+- Yudhishthira 'most wonderful': S042/S036/S008 — different answers, all kept.
 
-- **S055 (C)** = same teaching as **S044 (S)**, weaker telling → drop S055.
-- **Universal-forms trio:** S100 kept (story), S019 & S054 demoted to B (same point, drier).
-- **Yudhishthira 'most wonderful' motif:** S042 (hope), S036 (deathlessness), S008 (embedded quote) — three *different* answers, all kept.
-- **Elephant:** S087 full retelling is the keeper; no second telling in ledger.
-- **Re-span queue (C):** S076 p00-04 · S070 p16-19 · S098 p12-13 · S080 p72-73 · S034 prose-only · others cut outright.
+## re-spanned (2026-11-14)
+- S098 p12-16 · S080 p72-74 · S076 p00-05 · S070 p16-19 (→A) · S102 p30-31 — all now end on complete sentences.
+- **S034** remains cut: Devanagari inline, unfixable by re-span.
