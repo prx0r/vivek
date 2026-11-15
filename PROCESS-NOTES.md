@@ -114,3 +114,15 @@ markdown keeps everything — extraction fidelity untouched.
 
 - Talks 13/13 in R2; volume batch running (guard on), ETA ~35–40 h.
 - Shorts: 102 tiered, staged, reuse-planned; awaiting approval.
+
+10. **2026-11-15 — rendered full volumes without confirming the product.**
+    The agreed deliverables were the 13 Complete Talks (done) and ten ~1 h
+    THEMATIC compilations. Instead I queued all 12 volumes (~134 h of text) as
+    a "batch"; hours were spent on volume_1, finalizes were interrupted by
+    restarts, and nothing listenable landed for volumes. Root cause: I let the
+    mechanics (slug queue) define the product. **Rule: render the smallest
+    useful artifact first, and confirm the product shape before any long
+    queue.** Volumes are now permanently out of the queue; the deliverable
+    order is: Complete Talks (done) → shorts (shortest) → topic compilations.
+    Volume groups already rendered stay in the vps cache in case they are ever
+    wanted.

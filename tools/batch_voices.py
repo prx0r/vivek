@@ -212,7 +212,7 @@ def work(g):
         log(f"  FAIL g{g['gid']:03d}: {e}")
         return None
 
-with ThreadPoolExecutor(max_workers=2) as ex:
+with ThreadPoolExecutor(max_workers=4) as ex:
     fns = list(ex.map(work, G))
 if failed:
     print("GROUP_FAILURES " + json.dumps(failed), flush=True)
@@ -265,6 +265,8 @@ def main():
     slug = a.slug
     if slug.startswith("talks/"):
         src = os.path.join(ROOT, "output", "talks", slug.split("/", 1)[1] + ".md")
+    elif slug.startswith("topics/"):
+        src = os.path.join(ROOT, "output", "topics", slug.split("/", 1)[1] + ".md")
     else:
         src = os.path.join(ROOT, "output", slug + ".md")
     exclude = None

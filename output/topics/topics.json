@@ -1,0 +1,2490 @@
+[
+ {
+  "theme": "atman-the-self",
+  "title": "The Self \u2014 Who You Really Are",
+  "words": 9059,
+  "pieces": 77,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "PAPER ON HINDUISM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "RAJA-YOGA IN BRIEF"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE HINDU RELIGION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "REASON AND RELIGION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SPIRIT AND INFLUENCE OF VEDANTA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "KRISHNA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SOUL AND GOD"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SOUL AND GOD"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SOUL AND GOD"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRACTICAL RELIGION: BREATHING AND MEDITATION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "PRACTICAL VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE WAY TO THE REALISATION OF\nA UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE OPEN SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE OPEN SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE OPEN SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE OPEN SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE OPEN SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SOUL, NATURE, AND GOD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE GOAL"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE GOAL"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SWAMI VIVEKANANDA ON INDIA"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "ONE EXISTENCE APPEARING AS MANY"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "BUDDHISTIC INDIA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE MADRAS ADDRESS"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "LXXVIII"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "LXXXI"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "XC"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE MISSIONARY WORK OF THE FIRST HINDU SANNYASIN TO THE WEST\nAND\nHIS PLAN OF REGENERATION OF INDIA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "I"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NATURE AND MAN"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NATURE AND MAN"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE VEDANTA PHILOSOPHY AND CHRISTIANITY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "WORSHIPPER AND WORSHIPPED"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "MOTHER-WORSHIP"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "MOTHER-WORSHIP"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "MOTHER-WORSHIP"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE STORY OF THE BOY GOPALA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "XCIII"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "XCIII"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CL"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CL"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CLVIII"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CLVIII"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "CONVERSATIONS AND DIALOGUE"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "XXVII"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "XXVII"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "JNANA YOGA - I"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "MY LIFE AND MISSION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "NOTES OF CLASS TALKS"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "HINDUS AND CHRISTIANS"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE CLAIMS OF VEDANTA ON THE MODERN WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE CLAIMS OF VEDANTA ON THE MODERN WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "I AM THAT I AM"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "I AM THAT I AM"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "UNITY"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE ESSENCE OF RELIGION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "LXV"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "CLXXX"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "LXXXV"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CXLIII"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "HISTORY OF THE ARYAN RACE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "VIVEKANANDA IN THE WEST"
+   }
+  ]
+ },
+ {
+  "theme": "maya-illusion",
+  "title": "M\u0101y\u0101 \u2014 The World as Appearance",
+  "words": 5134,
+  "pieces": 42,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "POWERS"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "KRISHNA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRACTICAL RELIGION: BREATHING AND MEDITATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRACTICAL RELIGION: BREATHING AND MEDITATION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "MAYA AND THE EVOLUTION OF THE CONCEPTION OF GOD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "MAYA AND FREEDOM"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "MAYA AND FREEDOM"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "INDIA'S GIFT TO THE WORLD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "INDIA'S GIFT TO THE WORLD"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "FIRST PUBLIC LECTURE IN THE EAST"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE VEDANTA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "INDIAN RELIGIOUS THOUGHT"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE MADRAS ADDRESS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "TO THE AWAKENED INDIA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "LXXVII"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "INDIA'S MISSION"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON THE VEDANTA PHILOSOPHY"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "I"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE MESSAGE OF DIVINE WISDOM"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "INTRODUCTION TO JNANA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE REALITY AND SHADOW"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "XXXV"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "JNANA YOGA - I"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "RAJA YOGA\nFIRST LESSON"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "BUDDHA'S MESSAGE TO THE WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "STRUGGLE FOR EXPANSION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "CYCLIC REST AND CHANGE"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "I AM THAT I AM"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "A BENGALI SADHU"
+   }
+  ]
+ },
+ {
+  "theme": "god-brahman",
+  "title": "God, Brahman & the Absolute",
+  "words": 9057,
+  "pieces": 90,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "PAPER ON HINDUISM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PREFACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "SOUL, GOD AND RELIGION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "STEPS TO REALISATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "STEPS TO REALISATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA III"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SOUL AND GOD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "MAYA AND THE EVOLUTION OF THE CONCEPTION OF GOD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "GOD IN EVERYTHING"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE ATMAN: ITS BONDAGE AND FREEDOM"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "PRACTICAL VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "PRACTICAL VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "PRACTICAL VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "COSMOLOGY"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SANKHYA AND VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SECTS AND DOCTRINES IN INDIA"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "REPLY TO THE ADDRESS OF WELCOME AT PARAMAKUDI"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE VEDANTA IN ALL ITS PHASES"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE HINDOO MONK"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "HINDOO PHILOSOPHY"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE LOVE OF GOD"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE FIRST STEPS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE FIRST STEPS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE MAHABHARATA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE MAHABHARATA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "ON DR. PAUL DEUSSEN"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "WHAT WE BELIEVE IN"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "LXXVI"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "MIRACLES"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "INDIA AND ENGLAND"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "INDIAN MISSIONARY'S MISSION TO ENGLAND"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE MISSIONARY WORK OF THE FIRST HINDU SANNYASIN TO THE WEST\nAND\nHIS PLAN OF REGENERATION OF INDIA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON INDIAN WOMEN \u2014 THEIR PAST, PRESENT AND FUTURE"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON KARMA-YOGA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "I"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "VII"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE METHODS AND PURPOSE OF RELIGION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NATURE AND MAN"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "WORSHIPPER AND WORSHIPPED"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "WORSHIPPER AND WORSHIPPED"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "WORSHIPPER AND WORSHIPPED"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE DESIGN THEORY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE DESIGN THEORY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "MOTHER-WORSHIP"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE STORY OF THE BOY GOPALA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CLVIII"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "WOMEN OF INDIA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "MY LIFE AND MISSION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "FOUR PATHS OF YOGA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "NOTES OF CLASS TALKS"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE RELIGION OF LOVE"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "WAY TO SALVATION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE PEOPLE OF INDIA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE ESSENCE OF RELIGION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "HISTORY OF THE ARYAN RACE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE GITA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CHAPTER III"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CHAPTER V"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CHAPTER VIII"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CHAPTER XII"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "A LECTURE ON \"INDIA AND HINDUISM\""
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "LOVE RELIGION'S ESSENCE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "AN OCTOBER CLASS REVIEW"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "A SUMMARY OF \"BUDDHISM, THE FULFILMENT OF\nHINDUISM\""
+   }
+  ]
+ },
+ {
+  "theme": "bhakti-love",
+  "title": "Bhakti \u2014 The Path of Love",
+  "words": 5664,
+  "pieces": 41,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "PAPER ON HINDUISM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "WHAT IS RELIGION?"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "BHAKTI OR DEVOTION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SOME CUSTOMS OF THE HINDUS"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "PRAYER"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "PRAYER"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "PRAYER"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE BHAKTA'S RENUNCIATION RESULTS FROM LOVE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE BHAKTA'S RENUNCIATION RESULTS FROM LOVE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE HIGHER KNOWLEDGE AND THE HIGHER LOVE ARE ONE TO THE TRUE LOVER"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE TRIANGLE OF LOVE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE GOD OF LOVE IS HIS OWN PROOF"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "HUMAN REPRESENTATIONS OF THE DIVINE IDEAL OF LOVE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "REPLY TO THE ADDRESS OF WELCOME AT MADRAS"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "BHAKTI"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "INDIA: HER RELIGION AND CUSTOMS"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE LOVE OF GOD"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE WOMEN OF INDIA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE FIRST STEPS"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "I"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "WORSHIPPER AND WORSHIPPED"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "FOUR PATHS OF YOGA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE RELIGION OF LOVE"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE ESSENCE OF RELIGION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CHAPTER V"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CHAPTER V"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "PRIEST SWAMI IN TOWN"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE RELIGIOUS LEGENDS OF INDIA"
+   }
+  ]
+ },
+ {
+  "theme": "karma-work",
+  "title": "Karma-Yoga \u2014 Work & Duty",
+  "words": 5420,
+  "pieces": 39,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SECRET OF WORK"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SECRET OF WORK"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "WHAT IS DUTY?"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "WHAT IS DUTY?"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "WHAT IS DUTY?"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "WHAT IS DUTY?"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "NON-ATTACHMENT IS COMPLETE SELF-ABNEGATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "FREEDOM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE IDEAL OF KARMA-YOGA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "STEPS OF HINDU PHILOSOPHIC THOUGHT"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "KRISHNA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA II"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA III"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "VEDANTISM"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "AT THE PARLIAMENT OF RELIGIONS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "STRAY REMARKS ON THEOSOPHY"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "STRAY REMARKS ON THEOSOPHY"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "A HYMN TO THE DIVINE MOTHER"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON KARMA-YOGA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "JNANA YOGA - VII"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "FOUR PATHS OF YOGA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "WAY TO SALVATION"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "FOR UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE CHRISTIAN COMMONWEALTH"
+   }
+  ]
+ },
+ {
+  "theme": "raja-yoga-mind",
+  "title": "R\u0101ja-Yoga \u2014 Mind & Concentration",
+  "words": 9100,
+  "pieces": 66,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE CONTROL OF PSYCHIC PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE CONTROL OF PSYCHIC PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRATYAHARA AND DHARANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "DHYANA AND SAMADHI"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "POWERS"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "POWERS"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "POWERS"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INDEPENDENCE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "KRISHNA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA II"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "HINTS ON PRACTICAL SPIRITUALITY"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "HINTS ON PRACTICAL SPIRITUALITY"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE METHOD AND THE MEANS"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE METHOD AND THE MEANS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "WHAT WE BELIEVE IN"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE GOAL AND METHODS OF REALISATION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "INTRODUCTION TO JNANA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "INTRODUCTION TO JNANA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON RAJA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "HISTORICAL EVOLUTION OF INDIA"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "RAJA YOGA\nSECOND LESSON"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "RAJA YOGA\nSECOND LESSON"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "RAJA YOGA\nFIFTH LESSON"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "I AM THAT I AM"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "I AM THAT I AM"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "LOVE RELIGION'S ESSENCE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE DOCTRINE OF THE SWAMI"
+   }
+  ]
+ },
+ {
+  "theme": "death-immortality",
+  "title": "Death, Immortality & What Survives",
+  "words": 7162,
+  "pieces": 64,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "THE SECRET OF WORK"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "FREEDOM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "WHAT IS RELIGION?"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA I"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA II"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA III"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SOUL AND GOD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "HINTS ON PRACTICAL SPIRITUALITY"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "MAYA AND THE EVOLUTION OF THE CONCEPTION OF GOD"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "UNITY IN DIVERSITY"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SWAMI VIVEKANANDA ON INDIA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "INDIA'S GIFT TO THE WORLD"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "FIRST PUBLIC LECTURE IN THE EAST"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE VEDANTA IN ALL ITS PHASES"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE VEDANTA IN ALL ITS PHASES"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "MANNERS AND CUSTOMS IN INDIA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE MAHABHARATA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "MY MASTER"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "INDIAN RELIGIOUS THOUGHT"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "IS INDIA A BENIGHTED COUNTRY?"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REINCARNATION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE ADDRESS OF THE MAHARAJA OF KHETRI"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE CALCUTTA ADDRESS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE CALCUTTA ADDRESS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "KALI THE MOTHER"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "REAWAKENING OF HINDUISM ON A NATIONAL BASIS"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SADHANAS OR PREPARATIONS FOR HIGHER LIFE"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SADHANAS OR PREPARATIONS FOR HIGHER LIFE"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE COSMOS AND THE SELF"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "REASON, FAITH AND LOVE"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "TO THE FOURTH OF JULY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE NATURE OF THE SOUL AND ITS GOAL"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "INTRODUCTION TO JNANA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "HOW TO BECOME FREE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "LESSONS ON BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "MOTHER-WORSHIP"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "HISTORICAL EVOLUTION OF INDIA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "XC"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "JNANA YOGA - III"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE BIRTH OF RELIGION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "I AM THAT I AM"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE RELIGION OF INDIA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE RELIGION OF INDIA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE GITA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "LOVE RELIGION'S ESSENCE"
+   }
+  ]
+ },
+ {
+  "theme": "character-strength",
+  "title": "Character, Strength & Man-Making",
+  "words": 9269,
+  "pieces": 74,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "PAPER ON HINDUISM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "KARMA IN ITS EFFECT ON CHARACTER"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "KARMA IN ITS EFFECT ON CHARACTER"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SECRET OF WORK"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SECRET OF WORK"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE CONTROL OF PSYCHIC PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE CONTROL OF PSYCHIC PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRATYAHARA AND DHARANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "DHYANA AND SAMADHI"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "DHYANA AND SAMADHI"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS SPIRITUAL USES"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "CONCENTRATION: ITS PRACTICE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "STEPS TO REALISATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA II"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA III"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE GITA III"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRACTICAL RELIGION: BREATHING AND MEDITATION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "WORK AND ITS SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "HINTS ON PRACTICAL SPIRITUALITY"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "BHAKTI OR DEVOTION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE FREEDOM OF THE SOUL"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE ATMAN: ITS BONDAGE AND FREEDOM"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE ATMAN: ITS BONDAGE AND FREEDOM"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE GOAL"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "UNITY, THE GOAL OF RELIGION"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "UNITY, THE GOAL OF RELIGION"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "VEDANTISM"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "ADDRESS OF WELCOME AT ALMORA AND REPLY"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "MY MASTER"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "ARYANS AND TAMILIANS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "INDIA'S MESSAGE TO THE WORLD"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE ADDRESS OF THE MAHARAJA OF KHETRI"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE MADRAS ADDRESS"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "INDIA AND ENGLAND"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON KARMA-YOGA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SADHANAS OR PREPARATIONS FOR HIGHER LIFE"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE EVILS OF ADHIKARIVADA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "BUDDHISM AND VEDANTA"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "ON THE VEDANTA PHILOSOPHY"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE MESSAGE OF DIVINE WISDOM"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE METHODS AND PURPOSE OF RELIGION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CONCENTRATION AND BREATHING"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "DIVINE LOVE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "MY LIFE AND MISSION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "MY LIFE AND MISSION"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "NOTES OF CLASS TALKS"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "PRANAYAMA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE WORSHIP OF THE DIVINE MOTHER"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE WORSHIP OF THE DIVINE MOTHER"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHARTRIHARI'S VERSES ON RENUNCIATION"
+   }
+  ]
+ },
+ {
+  "theme": "practical-vedanta",
+  "title": "Practical Vedanta \u2014 Everyday Life",
+  "words": 5395,
+  "pieces": 39,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "EACH IS GREAT IN HIS OWN PLACE"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "NON-ATTACHMENT IS COMPLETE SELF-ABNEGATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRANA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRACTICAL RELIGION: BREATHING AND MEDITATION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PRACTICAL RELIGION: BREATHING AND MEDITATION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "GOD IN EVERYTHING"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE REAL AND THE APPARENT MAN"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "PRACTICAL VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE OPEN SECRET"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "AN EVENING WITH OUR HINDU COUSINS"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "VEDANTISM"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "REPLY TO THE ADDRESS OF WELCOME AT MADURA"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE MISSION OF THE VEDANTA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE MAHABHARATA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE STORY OF JADA BHARATA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "SKETCH OF THE LIFE OF PAVHARI BABA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "THE SONG OF THE SANNY\u00c2SIN"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE SANNYASIN"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "TO THE FOURTH OF JULY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE METHODS AND PURPOSE OF RELIGION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "WORSHIPPER AND WORSHIPPED"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "MOTHER-WORSHIP"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "BUDDHA'S MESSAGE TO THE WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "DISCIPLESHIP"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "THE CLAIMS OF VEDANTA ON THE MODERN WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "BHARTRIHARI'S VERSES ON RENUNCIATION"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "AN INTELLECTUAL FEAST"
+   }
+  ]
+ },
+ {
+  "theme": "unity-religions",
+  "title": "One Religion, Many Paths",
+  "words": 9069,
+  "pieces": 70,
+  "sources": [
+   {
+    "volume": "volume_1",
+    "chapter": "RESPONSE TO WELCOME"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PAPER ON HINDUISM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "PAPER ON HINDUISM"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE IDEAL OF KARMA-YOGA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "INTRODUCTORY"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE HINDU RELIGION"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "THE SPIRIT AND INFLUENCE OF VEDANTA"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_1",
+    "chapter": "BREATHING"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "GOD IN EVERYTHING"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE WAY TO THE REALISATION OF\nA UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE WAY TO THE REALISATION OF\nA UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE WAY TO THE REALISATION OF\nA UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE IDEAL OF A UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE IDEAL OF A UNIVERSAL RELIGION"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "COSMOLOGY"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "SANKHYA AND VEDANTA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "FROM FAR OFF INDIA"
+   },
+   {
+    "volume": "volume_2",
+    "chapter": "THE HINDU VIEW OF LIFE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "UNITY, THE GOAL OF RELIGION"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "SPIRITUAL REALISATION, THE AIM OF BHAKTI-YOGA"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "THE MISSION OF THE VEDANTA"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "ADDRESS OF WELCOME AT ALMORA AND REPLY"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "BHAKTI"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "AN INTERESTING LECTURE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "PLEA FOR TOLERANCE"
+   },
+   {
+    "volume": "volume_3",
+    "chapter": "BUDDHISTIC INDIA"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "MY MASTER"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "MY MASTER"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "MY MASTER"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "STRAY REMARKS ON THEOSOPHY"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "REPLY TO THE ADDRESS OF THE MAHARAJA OF KHETRI"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_4",
+    "chapter": "FUNDAMENTALS OF RELIGION"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "INDIA AND ENGLAND"
+   },
+   {
+    "volume": "volume_5",
+    "chapter": "THE GOAL AND METHODS OF REALISATION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "INTRODUCTION TO JNANA-YOGA"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE VEDANTA PHILOSOPHY AND CHRISTIANITY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE VEDANTA PHILOSOPHY AND CHRISTIANITY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "THE VEDANTA PHILOSOPHY AND CHRISTIANITY"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "FORMAL WORSHIP"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "RELIGION AND SCIENCE"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "ON PROOF OF RELIGION"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "NOTES TAKEN DOWN IN MADRAS, 1892-93"
+   },
+   {
+    "volume": "volume_6",
+    "chapter": "CXLII"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_7",
+    "chapter": "RECORDED BY MISS S. E. WALDO\n(A DISCIPLE)"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "BUDDHA'S MESSAGE TO THE WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "BUDDHA'S MESSAGE TO THE WORLD"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "IS VEDANTA THE FUTURE RELIGION?"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "JNANA AND KARMA"
+   },
+   {
+    "volume": "volume_8",
+    "chapter": "SAYINGS AND UTTERANCES"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE FIRST STEP TOWARDS JNANA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE MUNDAKA UPANISHAD"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "HISTORY OF THE ARYAN RACE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "THE GITA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "RESPONSE TO WELCOME"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "ALL RELIGIONS ARE TRUE\nSUCH IS THE MESSAGE BROUGHT FROM INDIA"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "LOVE RELIGION'S ESSENCE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "HEARD SWAMI TALK"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "SAID A UNIVERSAL RELIGION IS IMPOSSIBLE"
+   },
+   {
+    "volume": "volume_9",
+    "chapter": "CONCEPTION OF THE UNIVERSE"
+   }
+  ]
+ }
+]
