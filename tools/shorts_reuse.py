@@ -130,6 +130,37 @@ def main():
     print("-" * 88)
     print(f"TOTALS: exact {len(stats['exact'])} · approx {len(stats['approx'])} · "
           f"pending {len(stats['pending'])} · of {len(rows)}")
+    if "--emit-plan" in sys.argv:
+        plan = []
+        for r in rows:
+            slug = r["file"].replace("output/", "").replace(".md", "")
+            path = os.path.join(ROOT, "output", slug + ".md")
+            excl = None
+            if re.fullmatch(r"volume_\d+", slug):
+                excl = [(x["start"], x["end"]) for x in rng if x["vol"] == slug]
+            try:
+                blocks, o_lo, o_hi = body_block_index(path, r.get("chapter", ""),
+                                                     r["para"], r.get("preview", ""))
+                p_lo, p_hi, _k = filtered_pos(o_lo, o_hi, blocks, excl)
+            except Exception:
+                continue
+            gs = groups_by_slug[slug]
+            gi = next((i for i, g in enumerate(gs)
+                       if g["blocks"][0] <= p_lo <= g["blocks"][-1]), None)
+            if gi is None: continue
+            gj = gi
+            while gs[gj]["blocks"][-1] < p_hi:
+                gj += 1
+            run = gs[gi:gj + 1]
+            if not (run[0]["blocks"][0] == p_lo and run[-1]["blocks"][-1] == p_hi):
+                continue
+            if not all((slug, g["sha"]) in cached for g in run):
+                continue
+            plan.append({"id": r["id"], "slug": slug,
+                         "files": [f"/tmp/vivek-tts/gcache/{slug}/g{g['gid']:03d}_{g['voice']}_{g['sha']}.mp3" for g in run]})
+        out = os.environ.get("PLAN_OUT", "/tmp/opencode/shorts_slice_plan.json")
+        json.dump(plan, open(out, "w"), indent=1)
+        print(f"PLAN: {len(plan)} exact slices -> {out}")
     missing_groups = 0
     print(f"\nfish-free path: vps-side concat of cached group mp3s per range "
           f"(still gated on owner approval)")

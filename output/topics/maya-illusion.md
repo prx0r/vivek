@@ -1,7 +1,5 @@
 # Māyā — The World as Appearance
 
-*Extract-only compilation · 5,134 words ≈ 0.6 h · sources cited per piece · public domain*
-
 To the Yogi knowledge of the enjoyments of the world comes by the junction of the Purusha and the mind. If he wants to make Samyama on the knowledge that they are two different things, nature and soul, he gets knowledge of the Purusha. From that arises discrimination. When he has got that discrimination, he gets the Pratibha, the light of supreme genius. These powers, however, are obstructions to the attainment of the highest goal, the knowledge of the pure Self, and freedom. These are, as it were, to be met in the way; and if the Yogi rejects them, he attains the highest. If he is tempted to acquire these, his further progress is barred.
 
 It is our own mental attitude which makes the world what it is for us. Our thoughts make things beautiful, our thoughts make things ugly. The whole world is in our own minds. Learn to see things in the proper light. First, believe in this world — that there is meaning behind everything. Everything in the world is good, is holy and beautiful. If you see something evil, think that you are not understanding it in the right light. Throw the burden on yourselves! ... Whenever we are tempted to say that the world is going to the dogs, we ought to analyse ourselves, and we shall find that we have lost the faculty of seeing things as they are.
@@ -96,10 +94,3 @@ Two things exist in the world — dream and reality. What we call life is a succ
 
 The jealous guardianship of our women shows that we Hindus have declined in our national virtues, that we reverted to the "brutal state". Every man must so discipline his mind as to bring himself to regard all women as his sisters or mothers. Women must have freedom to read, to receive as good an education as men. Individual development is impossible with ignorance and slavery.
 
----
-*Sources, in order:* `volume_1` · POWERS; `volume_1` · KRISHNA; `volume_1` · PRACTICAL RELIGION: BREATHING AND MEDITATION; `volume_1` · PRACTICAL RELIGION: BREATHING AND MEDITATION; `volume_2` · WORK AND ITS SECRET; `volume_2` · WORK AND ITS SECRET; `volume_2` · MAYA AND THE EVOLUTION OF THE CONCEPTION OF GOD; `volume_2` · MAYA AND FREEDOM; `volume_2` · MAYA AND FREEDOM; `volume_2` · INDIA'S GIFT TO THE WORLD; `volume_2` · INDIA'S GIFT TO THE WORLD; `volume_3` · FIRST PUBLIC LECTURE IN THE EAST; `volume_3` · THE VEDANTA; `volume_4` · INDIAN RELIGIOUS THOUGHT; `volume_4` · REINCARNATION; `volume_4` · REPLY TO THE MADRAS ADDRESS; `volume_4` · TO THE AWAKENED INDIA; `volume_5` · LXXVII; `volume_5` · INDIA'S MISSION; `volume_5` · ON BHAKTI-YOGA; `volume_5` · ON THE VEDANTA PHILOSOPHY; `volume_5` · I; `volume_5` · THE MESSAGE OF DIVINE WISDOM; `volume_6` · INTRODUCTION TO JNANA-YOGA; `volume_6` · THE REALITY AND SHADOW; `volume_7` · RECORDED BY MISS S. E. WALDO
-(A DISCIPLE); `volume_7` · RECORDED BY MISS S. E. WALDO
-(A DISCIPLE); `volume_7` · RECORDED BY MISS S. E. WALDO
-(A DISCIPLE); `volume_7` · RECORDED BY MISS S. E. WALDO
-(A DISCIPLE); `volume_7` · XXXV; `volume_8` · JNANA YOGA - I; `volume_8` · RAJA YOGA
-FIRST LESSON; `volume_8` · BUDDHA'S MESSAGE TO THE WORLD; `volume_8` · STRUGGLE FOR EXPANSION; `volume_8` · CYCLIC REST AND CHANGE; `volume_8` · I AM THAT I AM; `volume_8` · SAYINGS AND UTTERANCES; `volume_9` · THE FIRST STEP TOWARDS JNANA; `volume_9` · THE FIRST STEP TOWARDS JNANA; `volume_9` · THE FIRST STEP TOWARDS JNANA; `volume_9` · THE MUNDAKA UPANISHAD; `volume_9` · A BENGALI SADHU

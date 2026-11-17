@@ -1,0 +1,49 @@
+# Bhakti — The Path of Love
+
+Extract-only compilation · 5,664 words ≈ 0.6 h · public domain
+
+Sources:
+`volume_1` · PAPER ON HINDUISM
+`volume_1` · WHAT IS RELIGION?
+`volume_2` · BHAKTI OR DEVOTION
+`volume_2` · SOME CUSTOMS OF THE HINDUS
+`volume_3` · PRAYER
+`volume_3` · PRAYER
+`volume_3` · PRAYER
+`volume_3` · THE BHAKTA'S RENUNCIATION RESULTS FROM LOVE
+`volume_3` · THE BHAKTA'S RENUNCIATION RESULTS FROM LOVE
+`volume_3` · THE HIGHER KNOWLEDGE AND THE HIGHER LOVE ARE ONE TO THE TRUE
+`volume_3` · THE TRIANGLE OF LOVE
+`volume_3` · THE GOD OF LOVE IS HIS OWN PROOF
+`volume_3` · HUMAN REPRESENTATIONS OF THE DIVINE IDEAL OF LOVE
+`volume_3` · REPLY TO THE ADDRESS OF WELCOME AT MADRAS
+`volume_3` · BHAKTI
+`volume_3` · INDIA: HER RELIGION AND CUSTOMS
+`volume_3` · THE LOVE OF GOD
+`volume_3` · THE WOMEN OF INDIA
+`volume_4` · THE FIRST STEPS
+`volume_5` · I
+`volume_6` · WORSHIPPER AND WORSHIPPED
+`volume_6` · DIVINE LOVE
+`volume_6` · DIVINE LOVE
+`volume_6` · DIVINE LOVE
+`volume_6` · DIVINE LOVE
+`volume_6` · DIVINE LOVE
+`volume_6` · LESSONS ON BHAKTI-YOGA
+`volume_6` · LESSONS ON BHAKTI-YOGA
+`volume_7` · RECORDED BY MISS S. E. WALDO
+(A DISCIPLE)
+`volume_7` · RECORDED BY MISS S. E. WALDO
+(A DISCIPLE)
+`volume_7` · RECORDED BY MISS S. E. WALDO
+(A DISCIPLE)
+`volume_8` · FOUR PATHS OF YOGA
+`volume_8` · THE RELIGION OF LOVE
+`volume_8` · THE ESSENCE OF RELIGION
+`volume_8` · SAYINGS AND UTTERANCES
+`volume_9` · BHAKTI-YOGA
+`volume_9` · BHAKTI-YOGA
+`volume_9` · CHAPTER V
+`volume_9` · CHAPTER V
+`volume_9` · PRIEST SWAMI IN TOWN
+`volume_9` · THE RELIGIOUS LEGENDS OF INDIA

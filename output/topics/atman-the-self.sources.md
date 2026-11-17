@@ -1,0 +1,84 @@
+# The Self — Who You Really Are
+
+Extract-only compilation · 9,059 words ≈ 1.0 h · public domain
+
+Sources:
+`volume_1` · PAPER ON HINDUISM
+`volume_1` · INTRODUCTORY
+`volume_1` · RAJA-YOGA IN BRIEF
+`volume_1` · CONCENTRATION: ITS PRACTICE
+`volume_1` · THE HINDU RELIGION
+`volume_1` · REASON AND RELIGION
+`volume_1` · THE SPIRIT AND INFLUENCE OF VEDANTA
+`volume_1` · KRISHNA
+`volume_1` · THE SOUL AND GOD
+`volume_1` · THE SOUL AND GOD
+`volume_1` · THE SOUL AND GOD
+`volume_1` · BREATHING
+`volume_1` · PRACTICAL RELIGION: BREATHING AND MEDITATION
+`volume_2` · PRACTICAL VEDANTA
+`volume_2` · THE WAY TO THE REALISATION OF
+A UNIVERSAL RELIGION
+`volume_2` · THE OPEN SECRET
+`volume_2` · THE OPEN SECRET
+`volume_2` · THE OPEN SECRET
+`volume_2` · THE OPEN SECRET
+`volume_2` · THE OPEN SECRET
+`volume_2` · SOUL, NATURE, AND GOD
+`volume_2` · THE GOAL
+`volume_2` · THE GOAL
+`volume_2` · SWAMI VIVEKANANDA ON INDIA
+`volume_3` · ONE EXISTENCE APPEARING AS MANY
+`volume_3` · BUDDHISTIC INDIA
+`volume_4` · REINCARNATION
+`volume_4` · REPLY TO THE MADRAS ADDRESS
+`volume_5` · LXXVIII
+`volume_5` · LXXXI
+`volume_5` · XC
+`volume_5` · THE MISSIONARY WORK OF THE FIRST HINDU SANNYASIN TO THE WEST
+`volume_5` · I
+`volume_6` · NATURE AND MAN
+`volume_6` · NATURE AND MAN
+`volume_6` · CONCENTRATION AND BREATHING
+`volume_6` · THE VEDANTA PHILOSOPHY AND CHRISTIANITY
+`volume_6` · WORSHIPPER AND WORSHIPPED
+`volume_6` · DIVINE LOVE
+`volume_6` · LESSONS ON RAJA-YOGA
+`volume_6` · MOTHER-WORSHIP
+`volume_6` · MOTHER-WORSHIP
+`volume_6` · MOTHER-WORSHIP
+`volume_6` · THE STORY OF THE BOY GOPALA
+`volume_6` · XCIII
+`volume_6` · XCIII
+`volume_6` · CL
+`volume_6` · CL
+`volume_6` · CLVIII
+`volume_6` · CLVIII
+`volume_7` · RECORDED BY MISS S. E. WALDO
+(A DISCIPLE)
+`volume_7` · CONVERSATIONS AND DIALOGUE
+`volume_7` · XXVII
+`volume_7` · XXVII
+`volume_8` · JNANA YOGA - I
+`volume_8` · MY LIFE AND MISSION
+`volume_8` · DISCIPLESHIP
+`volume_8` · IS VEDANTA THE FUTURE RELIGION?
+`volume_8` · IS VEDANTA THE FUTURE RELIGION?
+`volume_8` · IS VEDANTA THE FUTURE RELIGION?
+`volume_8` · NOTES OF CLASS TALKS
+`volume_8` · HINDUS AND CHRISTIANS
+`volume_8` · THE CLAIMS OF VEDANTA ON THE MODERN WORLD
+`volume_8` · THE CLAIMS OF VEDANTA ON THE MODERN WORLD
+`volume_8` · I AM THAT I AM
+`volume_8` · I AM THAT I AM
+`volume_8` · UNITY
+`volume_8` · THE ESSENCE OF RELIGION
+`volume_8` · LXV
+`volume_8` · CLXXX
+`volume_9` · LXXXV
+`volume_9` · CXLIII
+`volume_9` · THE FIRST STEP TOWARDS JNANA
+`volume_9` · THE FIRST STEP TOWARDS JNANA
+`volume_9` · THE MUNDAKA UPANISHAD
+`volume_9` · HISTORY OF THE ARYAN RACE
+`volume_9` · VIVEKANANDA IN THE WEST

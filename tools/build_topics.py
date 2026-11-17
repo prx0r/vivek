@@ -122,16 +122,17 @@ def main():
         # order by source for reading flow
         picked.sort(key=lambda x: (x[1], x[3]))
         total = sum(x[5] for x in picked)
-        lines = [f"# {title}", "",
-                 f"*Extract-only compilation · {total:,} words ≈ {total/9000:.1f} h · "
-                 f"sources cited per piece · public domain*", ""]
+        lines = [f"# {title}", ""]
+        meta = (f"# {title}\n\nExtract-only compilation · {total:,} words ≈ "
+                f"{total/9000:.1f} h · public domain\n\nSources:\n")
         cites = []
         for bs, slug, ch, idx, text, w in picked:
             lines.append(text)
             lines.append("")
             cites.append(f"`{slug}` · {ch[:60]}")
-        lines.append("---")
-        lines.append("*Sources, in order:* " + "; ".join(cites))
+        # citations live in a sidecar so they are never spoken
+        open(os.path.join(ROOT, "output", "topics", f"{k}.sources.md"), "w",
+             encoding="utf-8").write(meta + "\n".join(cites) + "\n")
         os.makedirs(os.path.join(ROOT, "output", "topics"), exist_ok=True)
         with open(os.path.join(ROOT, "output", "topics", k + ".md"), "w", encoding="utf-8") as f:
             f.write("\n".join(lines) + "\n")
